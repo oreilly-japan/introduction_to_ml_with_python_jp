@@ -109,11 +109,11 @@ en_nlp = spacy.load('en_core_web_sm')
 ## get_feature_names
 
 sklearnの特徴量抽出クラスのインスタンスが持つ特徴量の名前を返すメソッドの
-名前が`get_feature_names`から``get_feature_names_out`へ変更され、
+名前が`get_feature_names`から`get_feature_names_out`へ変更され、
 `get_feature_names`はobsoleteとなっている。
 1.2では
 
-8刷りでは修正済み
+8刷では修正済み
 
 
 
