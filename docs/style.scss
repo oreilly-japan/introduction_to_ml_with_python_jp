@@ -111,6 +111,19 @@ img {
   max-width: 100%;
 }
 
+th {
+  background: $lightGray
+}
+
+td {
+    border: 5px solid transparent;
+}
+
+td {
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
