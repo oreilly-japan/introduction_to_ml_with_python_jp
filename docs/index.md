@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<img src="./picture_large978-4-87311-798-0.jpeg" width="300px">
+<img src="images/picture_large978-4-87311-798-0.jpeg" width="300px">
 </div>
 
 <br>
